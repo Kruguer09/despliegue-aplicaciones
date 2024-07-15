@@ -1,4 +1,4 @@
-Desliegue de aplicaciones web desarrolladas con Visual Studio
+Despliegue de aplicaciones web desarrolladas con Visual Studio
 Lenguaje C#.
 Base de datos Microsoft sql server y SQL
 Despliegue en diferentes Hosting como son Somme y MyAsp (gratuitos), AWS y azure.
