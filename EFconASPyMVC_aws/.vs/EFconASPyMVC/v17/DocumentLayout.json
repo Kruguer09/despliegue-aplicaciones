@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D399073E-C9E5-427C-8347-76647B6AF51B}|EFconASPyMVC\\EFconASPyMVC.csproj|C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\efconaspymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D399073E-C9E5-427C-8347-76647B6AF51B}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D399073E-C9E5-427C-8347-76647B6AF51B}|EFconASPyMVC\\EFconASPyMVC.csproj|c:\\users\\usuario\\source\\repos\\efconaspymvc_aws\\efconaspymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D399073E-C9E5-427C-8347-76647B6AF51B}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D399073E-C9E5-427C-8347-76647B6AF51B}|EFconASPyMVC\\EFconASPyMVC.csproj|C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\efconaspymvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D399073E-C9E5-427C-8347-76647B6AF51B}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\EFconASPyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\EFconASPyMVC\\Program.cs",
+              "RelativeToolTip": "EFconASPyMVC\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:59:44.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\EFconASPyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\EFconASPyMVC\\appsettings.json",
+              "RelativeToolTip": "EFconASPyMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T14:35:02.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\EFconASPyMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EFconASPyMVC_aws\\EFconASPyMVC\\appsettings.Development.json",
+              "RelativeToolTip": "EFconASPyMVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T14:34:59.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
